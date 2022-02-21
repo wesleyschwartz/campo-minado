@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74fd943b-e6ee-4895-ad0e-49350b5819c5" name="Changes" comment="First commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24v3OSWh8YUJgPVHjwVG0ttsats" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="br.com.wii.cm.modelo.Campo" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/campo-minado-console" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="br.com.wii.cm.modelo.Campo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wesle\Desktop\produção\Curso JAVA 2021 COMPLETO - exercicios\campo-minado\campo-minado-console" />
+      <recent name="C:\Users\wesle\Desktop\produção\ProjetosIntellij2\campo-minado" />
+      <recent name="C:\Users\wesle\Desktop\produção\ProjetosIntellij2\campo-minado\src" />
+      <recent name="C:\Users\wesle\Desktop\produção\ProjetosIntellij2\campo-minado\src\main" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.wii.cm.modelo" />
+      <recent name="test" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aplicacao">
+    <configuration name="Aplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.wii.cm.Aplicacao" />
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.wii.cm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CampoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.wii.cm.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.wii.cm.modelo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.wii.cm.modelo.CampoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CampoTest.testAbrirComVizinhos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.wii.cm.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.wii.cm.modelo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.wii.cm.modelo.CampoTest" />
+      <option name="METHOD_NAME" value="testAbrirComVizinhos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CampoTest.testAbrirComVizinhos2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.wii.cm.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.wii.cm.modelo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.wii.cm.modelo.CampoTest" />
+      <option name="METHOD_NAME" value="testAbrirComVizinhos2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CampoTest.testObjetivoAlcancado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.wii.cm.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.wii.cm.modelo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.wii.cm.modelo.CampoTest" />
+      <option name="METHOD_NAME" value="testObjetivoAlcancado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aplicacao" />
+        <item itemvalue="JUnit.CampoTest.testObjetivoAlcancado" />
+        <item itemvalue="JUnit.CampoTest.testAbrirComVizinhos2" />
+        <item itemvalue="JUnit.CampoTest.testAbrirComVizinhos" />
+        <item itemvalue="JUnit.CampoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\wesle\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74fd943b-e6ee-4895-ad0e-49350b5819c5" name="Changes" comment="" />
+      <created>1644497200902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644497200902</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1645095412941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645095412941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1645095634342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645095634342</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <created>1645095972170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645095972170</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First commit">
+      <created>1645096050727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645096050727</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First commit">
+      <created>1645096674109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645096674109</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Second commit, campo-minado-swing">
+      <created>1645467193397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645467193397</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Second commit, campo-minado-swing">
+      <created>1645467211974</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645467211974</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/campo-minado-swing" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Second commit, campo-minado-swing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit, campo-minado-swing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/java/br/com/wii/cm/modelo/CampoTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/campo_minado$CampoTest_testAbrirComVizinhos2.ic" NAME="CampoTest.testAbrirComVizinhos2 Coverage Results" MODIFIED="1644504360913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.wii.cm.modelo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/campo_minado$CampoTest.ic" NAME="CampoTest Coverage Results" MODIFIED="1644503021272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.wii.cm.modelo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
